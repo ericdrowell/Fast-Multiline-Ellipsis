@@ -1,4 +1,6 @@
-Fast-Multiline-Ellipsis
-=======================
+##Fast-Multiline-Ellipsis
 
-Fast Multi-line Ellipsis
+
+###Codepen Examples
+
+[Ellipsis simple example](http://codepen.io/ericdrowell/pen/gyoFl)
